@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@map-gesture-controls/core": "^1.0.0"
+  },
+  "devDependencies": {
+    "electron": "^45.2.1"
+  },
+  "main": "vision/main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
